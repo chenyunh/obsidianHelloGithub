@@ -5,12 +5,12 @@
       "path": "README.md"
     },
     {
-      "basename": "README-md-local-image",
-      "path": "tools/README-md-local-image.md"
+      "basename": "helloGithub_ja",
+      "path": "helloGithub_ja.md"
     },
     {
-      "basename": "md-local-image",
-      "path": "tools/md-local-image.py"
+      "basename": "helloGithub_en",
+      "path": "helloGithub_en.md"
     }
   ],
   "omittedPaths": [],

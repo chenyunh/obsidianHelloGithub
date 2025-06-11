@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "4983d6fb719c9cf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2067d590d59c6005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ac6c5c0d86023ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5372856be3a5b83e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac7de63a43f0ef54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99506c2972a345e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e7a05a70e3d97400",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b6036f73039b4714",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "785b12b85d041b8c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "13a14219dabb234b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "7e46f50a121948ac",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "right": {
+    "id": "453d42d848dd899f",
+    "type": "split",
+    "children": [
+      {
+        "id": "77dc21a4a048d701",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413ff62d1cc6cfab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "todo list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "todo list 的反向链接列表"
+            }
+          },
+          {
+            "id": "e421007d4e616258",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "dashboard 的出链列表"
+            }
+          },
+          {
+            "id": "d10e06195eae7c7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c94bb818c994e754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "todo list.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "todo list 的大纲"
+            }
+          },
+          {
+            "id": "aa6a2651ed02426c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "de33c388faf88086",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 690.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open this week": false,
+      "vscode-editor:新建代码文件": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "1ac6c5c0d86023ae",
+  "lastOpenFiles": [
+    "tools/README-md-local-image.md",
+    "README.md",
+    "tools/md-local-image.py",
+    "media/201188122.gif",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "test.md",
+    "Sample.md",
+    "power-control-state-machine.md",
+    "periodicnotes/Sample.md",
+    "media/scripts-slideshow-2.jpg",
+    "media/scripts-download-raw.jpg",
+    "media/scripts-copy-selected-element-styles-to-global.png",
+    "media/scripts-bullet-point.jpg",
+    "media/scripts-boolean-operations-showcase.png",
+    "media/scripts-boolean-operations-element-ranking.png",
+    "media/scripts-auto-layout.png",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "Excalidraw/Drawing 2025-06-10 14.32.24.excalidraw.md",
+    "media",
+    "新建 文本文档.txt",
+    "Excalidraw/Drawing 2025-05-09 10.41.51.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-09 10.42.53.excalidraw.md",
+    "未命名看板.md",
+    "Excalidraw/Drawing 2025-05-09 10.37.32.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.md",
+    "dashboard.md",
+    "Excalidraw/cups service arc.md",
+    "Excalidraw/Drawing 2025-03-19 09.59.02.excalidraw.md",
+    "Excalidraw/espi driver fifo.md",
+    "Excalidraw/milos ppc.md",
+    "Excalidraw/milos vpd update.md",
+    "Excalidraw/power budget pattern.md",
+    "Excalidraw/Drawing 2025-03-04 18.03.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-11 09.57.40.excalidraw.md",
+    "openbmc/apps/intel/code-path.canvas",
+    "openbmc/power managment/hwmon.canvas",
+    "openbmc/intel/nm policy mgr.canvas",
+    "cplusplus/code/bit_cast_test.cpp",
+    "cplusplus/code/bitmap_test.cpp",
+    "cplusplus/code/span_test.cpp",
+    "cplusplus/code/span_test_fifo.cpp",
+    "AI/startPoint.canvas",
+    "openbmc/openbmc-docs/tof",
+    "openbmc/openbmc-docs/userguide/userguide.tex",
+    "openbmc/openbmc-docs/userguide",
+    "openbmc/apps/lenovo/psud/dbus.canvas",
+    "openbmc/apps/lenovo/licensed/codeClass.canvas",
+    "openbmc/apps/lenovo/lenovo-utilization/UML.canvas",
+    "openbmc/apps/lenovo/pwrmgt/policyMgr.canvas"
+  ]
+}

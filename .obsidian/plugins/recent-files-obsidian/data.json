@@ -1,0 +1,19 @@
+{
+  "recentFiles": [
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "README-md-local-image",
+      "path": "tools/README-md-local-image.md"
+    },
+    {
+      "basename": "md-local-image",
+      "path": "tools/md-local-image.py"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
